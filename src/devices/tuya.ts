@@ -1517,6 +1517,7 @@ export const definitions: DefinitionWithExtend[] = [
             "_TZ3000_iy2c3n6p",
             "_TZ3000_qlmnxmac",
             "_TZ3000_sgb0xhwn",
+            "_TZ3000_rul9yxcc",
         ]),
         model: "TS011F_2_gang_wall",
         vendor: "Tuya",
