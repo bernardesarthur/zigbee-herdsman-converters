@@ -319,7 +319,7 @@ export const definitions: DefinitionWithExtend[] = [
         ],
     },
     {
-        fingerprint: tuya.fingerprint("TS0601", ["_TZE204_nthhgkd6"]),
+        fingerprint: tuya.fingerprint("TS0601", ["_TZE204_nthhgkd6", "_TZE284_nthhgkd6"]),
         model: "QADZ4DIN",
         vendor: "QA",
         description: "4 channel dimmer module",
